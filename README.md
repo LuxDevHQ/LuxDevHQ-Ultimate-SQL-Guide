@@ -1,20 +1,6 @@
-# SQL for Absolute Beginners with PostgreSQL and DBeaver
-
-Welcome, teacher and student 👋  
-You are safe here. You do **not** need any database knowledge to start.  
-We will learn slowly, kindly, and step by step.
-
-Think of this course like learning to organize toys in boxes:
-- The toys are **data**.
-- The boxes are **tables**.
-- The toy room is a **database**.
-- The instructions you say out loud are **SQL commands**.
-
-We will repeat important ideas many times in simple words. That is good learning.
+## **SQL for Absolute Beginners with PostgreSQL and DBeaver.**
 
 ---
-
-## Course Overview
 
 ### What this course is
 This is a full beginner SQL course manual for class teaching and self-practice.
