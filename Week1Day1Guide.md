@@ -1,4 +1,5 @@
-**What is data?**
+### **What is data?**
+
 Data is raw facts or pieces of information. It can be numbers, words, dates, prices, names, marks, phone numbers, or anything we collect and store about people, places, things, or events.
 
 **Examples of data:**
@@ -17,7 +18,7 @@ In simple terms, data is the small pieces of information that help us understand
 
 When many pieces of data are collected together, they help us answer questions and make decisions.
 
-**What Is a Database?**
+### **What Is a Database?**
 
 A database is an organized digital system used to store and manage data so it can be accessed, updated, and used easily.
 
