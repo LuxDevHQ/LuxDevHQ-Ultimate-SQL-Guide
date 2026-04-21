@@ -16,6 +16,10 @@ We will repeat important ideas many times in simple words. That is good learning
 
 ## Course Overview
 
+## **SQL for Absolute Beginners with PostgreSQL and DBeaver.**
+
+---
+
 ### What this course is
 This is a full beginner SQL course manual for class teaching and self-practice.
 
