@@ -1,6 +1,6 @@
-# Week 1 Day 2: SQL For Data ANaluytics
+## Week 1 Day 2: SQL For Data ANaluytics
 
-## Tables, Rows, Columns, Data Types, and Schemas
+### Tables, Rows, Columns, Data Types, and Schemas
 
 By this point, you already know that data is raw information, a database is where data is stored in an organized way, and DBeaver is the tool we use to connect to PostgreSQL and write SQL queries. On Day 2, we now move deeper into how data is actually arranged inside a database. This lesson is very important because before you can query data, filter data, update data, or analyze data, you must first understand how the data is structured.
 
@@ -8,7 +8,7 @@ Many beginners rush into writing `SELECT` statements without first understanding
 
 ---
 
-# 1. What is a table?
+### 1. What is a table?
 
 A table is a structure inside a database used to store related data in an organized form. It is one of the most important objects in a relational database. A table keeps information about one subject or one type of thing.
 
@@ -25,7 +25,7 @@ A good table should focus on one topic only. This is important because databases
 
 For example, a `students` table should store student-related information such as names, ages, and contact details. It should not also store supplier details, stock records, or employee payroll data. Those belong in separate tables.
 
-## Example of a simple students table
+#### Example of a simple students table
 
 | student_id | student_name | age | gender | course |
 |------------|--------------|-----|--------|--------|
@@ -37,7 +37,7 @@ This entire structure is called a table.
 
 ---
 
-# 2. Why tables are important
+### 2. Why tables are important
 
 Tables are important because they help keep information organized, structured, and easy to manage. Without tables, all data would be mixed together in one messy place.
 
@@ -67,7 +67,7 @@ So tables are not just containers. They are the main way a database keeps order.
 
 ---
 
-# 3. What is a row?
+### 3. What is a row?
 
 A row is one complete record in a table. It represents one full item, person, event, or entry depending on what the table is about.
 
@@ -93,7 +93,7 @@ So:
 
 A row gives us all the details for one record.
 
-### Simple meaning of a row
+#### Simple meaning of a row
 
 A row is one complete entry in the table.
 
@@ -109,7 +109,7 @@ This idea is very important because when you query a table, SQL often returns ro
 
 ---
 
-# 4. What is a column?
+### 4. What is a column?
 
 A column is one field or one category of information in a table. It describes one property of the records in the table.
 
@@ -156,7 +156,7 @@ This means that columns tell us what kind of details we are collecting about eac
 
 ---
 
-# 5. Difference between a row and a column
+### 5. Difference between a row and a column
 
 Students often confuse rows and columns, so this must be very clear.
 
@@ -188,7 +188,7 @@ Another way to remember it:
 
 ---
 
-# 6. What is a cell?
+### 6. What is a cell?
 
 A cell is the point where a row and a column meet. It contains one single value.
 
@@ -212,7 +212,7 @@ This may sound small, but it matters because databases work by storing values in
 
 ---
 
-# 7. Analogy: Admission form
+### 7. Analogy: Admission form
 
 A good way to understand tables, rows, and columns is to think of a student admission form.
 
@@ -238,7 +238,7 @@ This is exactly how tables work.
 
 ---
 
-# 8. What makes a good table?
+### 8. What makes a good table?
 
 A good table should be designed carefully. It should not just hold data; it should hold data in a clear and useful way.
 
@@ -263,7 +263,7 @@ A well-designed table makes querying easier and reduces mistakes later.
 
 ---
 
-# 9. What is a primary key?
+### 9. What is a primary key?
 
 A primary key is a column that uniquely identifies each row in a table. It is one of the most important concepts in relational databases.
 
